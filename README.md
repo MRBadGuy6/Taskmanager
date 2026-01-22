@@ -11,6 +11,6 @@ Programmiersprache:
 
 - C#
 
-![Screenshot](Screenshot 2025-08-04 150902.png)
+![Screenshot]([Screenshot 2025-08-04 150902.png](https://github.com/MRBadGuy6/Taskmanager/blob/acd60aa4aa2d9f90b3b125be331b4f1c1f896aed/Screenshot%202025-08-04%20150902.png))
 
 
