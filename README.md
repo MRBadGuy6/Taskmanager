@@ -7,5 +7,9 @@ Hier sehen Sie meinen Taskmanager den ich während meiner Schulzeit programmiert
 - Aufgaben anzeigen
 - Aufgaben bearbeiten
 
+Programmiersprache:
+
+- C#
+
 
 
